@@ -8,4 +8,4 @@ This dataset contains images of the following food items:
 | Category   | Items                                                                                         |
 |------------|----------------------------------------------------------------------------------------------|
 | Fruits     | banana, apple, pear, grapes, orange, kiwi, watermelon, pomegranate, pineapple, mango       |
-| Vegetables | cucumber, carrot, capsicum, onion, potato, lemon, tomato, radish, beetroot, cabbage, ... |
+| Vegetables | cucumber, carrot, capsicum, onion, potato, lemon, tomato, raddish, beetroot, cabbage, lettuce, spinach, soy bean, cauliflower, bell pepper, chilli pepper, turnip, corn, sweetcorn, sweet potato, paprika, jalepeño, ginger, garlic, peas, eggplant |
