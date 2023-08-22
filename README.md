@@ -1,6 +1,5 @@
 # Fresh-to-Death-Data-Science-Project
-This project will leverage advanced computer vision techniques to identify various types of vegetables, categorizes the vegetables in real-time and provides users with instant information on the approximate shelf life.
-
+This project will explore the differnce in performance of a custom EfficientNetB0 Model in regards to different approaches in preprocessing.
 ## Dataset:
 [Kaggle Fruits and Vegetables Image Recognition Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition?resource=download)
 
